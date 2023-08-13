@@ -377,7 +377,7 @@ echo:
 echo:
 timeout /t 3
 
-start https://github.com/lstprjct/IDM-Activation-Script
+start https://github.com/raufkhantanoli/IDM-Activation-Script
 goto MainMenu
 
 ::========================================================================================================================================
