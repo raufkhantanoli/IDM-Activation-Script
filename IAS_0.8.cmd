@@ -153,7 +153,7 @@ if defined activate goto _activate
 :MainMenu
 
 cls
-title  IDM Activation Script 0.7 - @ModByPiash
+title  IDM Activation Script 0.7 - @ModByRaufKhanTanoli
 mode 65, 25
 
 :: Check firewall status
@@ -184,8 +184,8 @@ set _col=%_Yellow%
 call :_color2 %_White% "        " %_Green% "  Create By Piash"
 echo:          _____________________________________________   
 echo: 
-echo:          Telegram: @ModByPiash
-echo:          Github: https://github.com/lstprjct
+echo:          Telegram: @ModByRaufKhanTanoli
+echo:          Github: https://github.com/raufkhantanoli
 echo:          _____________________________________________   
 echo:                                                          
 echo:          [1] Activate IDM                                
@@ -875,9 +875,9 @@ _________________________________
 
    IDM Activation Script
    
-   Homepage:	https://github.com/lstprjct/IDM-Activation-Script
+   Homepage:	https://github.com/raufkhantanoli/IDM-Activation-Script
    
-   Telegram:	https://t.me/ModByPiash
+   Telegram:	https://t.me/ModByRaufKhanTanoli
 
 __________________________________________________________________________________________________
 :txt:
