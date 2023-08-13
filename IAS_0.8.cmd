@@ -181,7 +181,7 @@ set _status=Status_Unclear
 set _col=%_Yellow%
 )
 
-call :_color2 %_White% "        " %_Green% "  Create By Piash"
+call :_color2 %_White% "        " %_Green% "  Create By Abdur Rauf Khan Tanoli"
 echo:          _____________________________________________   
 echo: 
 echo:          Telegram: @ModByRaufKhanTanoli
@@ -424,7 +424,7 @@ echo:
 echo Applying registration details...
 echo:
 
-If not defined name set name=Piash
+If not defined name set name=Abdur Rauf Khan Tanoli
 
 set "reg=HKCU\SOFTWARE\DownloadManager /v FName /t REG_SZ /d "%name%"" & call :_rcont
 set "reg=HKCU\SOFTWARE\DownloadManager /v LName /t REG_SZ /d """ & call :_rcont
